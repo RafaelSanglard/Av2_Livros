@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AV2_Livros",
+    "slug": "AV2_Livros",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
